@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 18.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLHomeworkAgain", "..\Documents\SQL Server Management Studio\SQLHomeworkAgain\SQLHomeworkAgain.ssmssqlproj", "{4DC0CBD1-CA3E-4F5E-9351-8C6E70293FCB}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLHomeworkAgain", "C:\Users\danen\Documents\SQL Server Management Studio\SQLHomeworkAgain\SQLHomeworkAgain.ssmssqlproj", "{4DC0CBD1-CA3E-4F5E-9351-8C6E70293FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90C3B8FD-6109-48F4-8EBE-C4F35A1697C1}.Default|Default.ActiveCfg = Default
 		{4DC0CBD1-CA3E-4F5E-9351-8C6E70293FCB}.Default|Default.ActiveCfg = Default
+		{891107B6-7A0B-4B7D-8962-647316A4E008}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
